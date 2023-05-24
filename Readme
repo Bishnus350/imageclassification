@@ -1,0 +1,6 @@
+I first download the images from the google
+I labelled those images
+After that i divide those datasets into train and test sets.
+I trained the trainig test and used test sets for prediction.
+I got 100 percent accuracy here. 
+PS: The images from google are perfect and this is just a testing of the code.
